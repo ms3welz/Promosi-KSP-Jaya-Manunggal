@@ -21,4 +21,5 @@ Project pembuatan video promosi menggunakan Adobe After Effects CC 2024 untuk Ko
 - [Happy Inviting Technology Presentation](https://elements.envato.com/happy-inviting-technology-presentation-SHNJ8C9)
 
 ## Preview
-[![Preview Promosi](/Preview/Preview-Promosi.jpg)](/Preview/Preview-Promosi.mp4)
+> Klik Gambar untuk melihat Demo videonya
+[![Preview Promosi](/Preview/Preview-Promosi.jpg)](https://www.instagram.com/p/C52sT60oJXZ/)
